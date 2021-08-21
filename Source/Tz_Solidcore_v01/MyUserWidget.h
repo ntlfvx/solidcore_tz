@@ -3,10 +3,8 @@
 #pragma once
 
 #include "CoreMinimal.h"
-#include "Blueprint/UserWidget.h"
 #include "MyUserWidget.generated.h"
-#include "Components/TextBlock.h"
-#include "Components/Image.h"
+
 
 
 
